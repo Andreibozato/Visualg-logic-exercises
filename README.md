@@ -87,7 +87,7 @@ This repository brings together a collection of **17 practical exercises** devel
   - **Code Logic:** Application of a for loop to read 5 pairs of name/weight, updating the variables mal (heaviest weight) and pesado (name) whenever a heavier weight is found, alongside a Topo() procedure that clears the screen and displays the header with the current heaviest weight.
 </details>
 
-### 09. [Exercise-09-Fibonacci](./Exercise-09-Fibonacci)
+### 09. [Exercise-09-Fibonacci-procedure](./Exercise-09-Fibonacci-procedure)
 <details>
   <summary><b>Click to expand project details</b></summary>
   

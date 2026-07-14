@@ -13,5 +13,5 @@ repita
 
    escreval(N," * ",cont," = ",R)
     cont <- cont + 1
-ate(cont>5)
+ate(cont>10)
 fimalgoritmo

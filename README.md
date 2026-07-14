@@ -131,3 +131,13 @@ This repository brings together a collection of **17 practical exercises** devel
   - **Simulated Hardware:** Keyboard input of 6 integer values; terminal output with the matrix arranged in 3 rows and 2 columns, right-aligned.
   - **Code Logic:** Application of nested loops: the first pair reads and stores the data, while the second traverses the matrix and displays each element with fixed spacing.
 </details>
+
+### 15. [Exercise-15-Even-Matrix](./Exercise-15-Even-Matrix)
+<details>
+  <summary><b>Click to expand project details</b></summary>
+  
+  - **Objective:** Fills a 3x3 matrix, highlights the even numbers by displaying them inside curly braces, and counts how many were found.
+  - **Simulated Hardware:** Keyboard input of 9 integer values; terminal output with the formatted matrix (even numbers inside {}, odd numbers with normal spacing) and the phrase "o total de numeros pares foi de X" (the total number of even values was X).
+  - **Code Logic:** Application of nested loops for reading and printing the matrix; inside the display loop, a conditional statement if (mat[l,c]%2=0) is used to change the formatting and increment the totpar counter.
+</details>
+

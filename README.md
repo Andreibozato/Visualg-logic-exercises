@@ -86,3 +86,12 @@ This repository brings together a collection of **17 practical exercises** devel
   - **Simulated Hardware:** Keyboard input of 5 names (string) and their respective weights (real); terminal output with a header showing the heaviest weight recorded so far (updated in each iteration) and the formatted final result.
   - **Code Logic:** Application of a for loop to read 5 pairs of name/weight, updating the variables mal (heaviest weight) and pesado (name) whenever a heavier weight is found, alongside a Topo() procedure that clears the screen and displays the header with the current heaviest weight.
 </details>
+
+### 09. [Exercise-09-Fibonacci](./Exercise-09-Fibonacci)
+<details>
+  <summary><b>Click to expand project details</b></summary>
+  
+  - **Objective:** Displays the first 12 terms of the Fibonacci sequence (0, 1, and the next 10).
+  - **Simulated Hardware:** No data input; terminal output displaying each term of the sequence in order.
+  - **Code Logic:** Application of a proximoFibonacci procedure that receives two values by reference, calculates the next term (A+B), prints it, and updates the parameters; it is called 10 times after the initial printing of 0 and 1.
+</details>

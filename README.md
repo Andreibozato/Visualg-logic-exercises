@@ -41,3 +41,12 @@ This repository brings together a collection of **17 practical exercises** devel
   - **Simulated Hardware:** Keyboard input of integer values and the letter "S" or "N" to continue; terminal output of the total accumulated sum.
   - **Code Logic:** Application of a repeat-until loop, where in each iteration a number is read and added to the accumulator S, until the variable R receives the value "n".
 </details>
+
+### 05. [Exercise-05-Times-Table](./Exercise-05-Times-Table)
+<details>
+  <summary><b>Click to expand project details</b></summary>
+  
+  - **Objective:** Displays the multiplication table (from 1 to 10) of an integer entered by the user.
+  - **Simulated Hardware:** Keyboard input of the number N; terminal output showing ten formatted lines like "N * cont = R".
+  - **Code Logic:** Application of a repeat-until loop with a counter starting at 1 and incremented until it exceeds 10, calculating the product in each iteration.
+</details>

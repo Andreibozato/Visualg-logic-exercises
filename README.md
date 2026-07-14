@@ -131,3 +131,12 @@ This repository brings together a collection of **17 practical exercises** devel
   - **Simulated Hardware:** Keyboard input of 4 integer values; terminal output with the sorted numbers in the format "{x}{y}{z}{w}".
   - **Code Logic:** Application of a exchange-based sorting algorithm (bubble sort) with two nested loops, comparing adjacent elements and swapping them if the first is greater than the second.
 </details>
+
+### 14. [Exercise-14-3x2-Matrix](./Exercise-14-3x2-Matrix)
+<details>
+  <summary><b>Click to expand project details</b></summary>
+  
+  - **Objective:** Fills a 3x2 matrix with integers entered by the user and displays it in a formatted layout on the screen.
+  - **Simulated Hardware:** Keyboard input of 6 integer values; terminal output with the matrix arranged in 3 rows and 2 columns, right-aligned.
+  - **Code Logic:** Application of nested loops: the first pair reads and stores the data, while the second traverses the matrix and displays each element with fixed spacing.
+</details>

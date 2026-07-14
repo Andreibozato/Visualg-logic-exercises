@@ -50,3 +50,12 @@ This repository brings together a collection of **17 practical exercises** devel
   - **Simulated Hardware:** Keyboard input of the number N; terminal output showing ten formatted lines like "N * cont = R".
   - **Code Logic:** Application of a repeat-until loop with a counter starting at 1 and incremented until it exceeds 10, calculating the product in each iteration.
 </details>
+
+### 06. [Exercise-06-Negative-Counter](./Exercise-06-Negative-Counter)
+<details>
+  <summary><b>Click to expand project details</b></summary>
+  
+  - **Objective:** Reads 5 integers and counts how many of them are negative, displaying the total at the end.
+  - **Simulated Hardware:** Keyboard input of 5 integers; terminal output with the message "Foram digitados X valores negativos" (X negative values were entered).
+  - **Code Logic:** Application of a repeat-until loop that iterates 5 times, checking if each value is less than zero to increment the negative counter.
+</details>

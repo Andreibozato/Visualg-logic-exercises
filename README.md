@@ -59,3 +59,12 @@ This repository brings together a collection of **17 practical exercises** devel
   - **Simulated Hardware:** Keyboard input of 5 integers; terminal output with the message "Foram digitados X valores negativos" (X negative values were entered).
   - **Code Logic:** Application of a repeat-until loop that iterates 5 times, checking if each value is less than zero to increment the negative counter.
 </details>
+
+### 07. [Exercise-07-Factorial](./Exercise-07-Factorial)
+<details>
+  <summary><b>Click to expand project details</b></summary>
+  
+  - **Objective:** Calculates and displays the factorial of a number, repeating the operation as long as the user wishes to continue.
+  - **Simulated Hardware:** Keyboard input of the number N and the response "s" or "n" to continue; terminal output showing the multiplication sequence and the factorial value.
+  - **Code Logic:** Application of two repeat-until loops — the outer one controls the repetition of the program and the inner one multiplies an accumulator (f) by a decreasing counter (c) from N down to 1, displaying each term.
+</details>

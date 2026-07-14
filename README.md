@@ -122,3 +122,12 @@ This repository brings together a collection of **17 practical exercises** devel
   - **Simulated Hardware:** Keyboard input of 4 names; terminal output with the list of names that start with "C".
   - **Code Logic:** Application of a for loop to read the names, use of the function copia(maiusc(nome),1,1) to check the initial, storage of matching names in the soC vector, and counting of the selected names with tot, followed by the display of the stored names.
 </details>
+
+### 13. [Exercise-13-Vector-Sorting](./Exercise-13-Vector-Sorting)
+<details>
+  <summary><b>Click to expand project details</b></summary>
+  
+  - **Objective:** Sorts a vector of 4 integers in ascending order and displays the result enclosed in curly braces.
+  - **Simulated Hardware:** Keyboard input of 4 integer values; terminal output with the sorted numbers in the format "{x}{y}{z}{w}".
+  - **Code Logic:** Application of a exchange-based sorting algorithm (bubble sort) with two nested loops, comparing adjacent elements and swapping them if the first is greater than the second.
+</details>

@@ -10,8 +10,8 @@ To run and test any of the exercises in this repository, follow the steps below:
 
 1. Download the files from this repository or clone it to your machine.
 2. Open **VisualG**.
-3. In the top menu, click **Arquivo** (File) > **Abrir** (Open) (or use the shortcut `Ctrl + A`) and select the `.alg` file of the exercise you want to test.
-4. To run the algorithm, press the **F9** key (or go to **Algoritmo** > **Executar**).5. Interact with the program through the console/terminal that opens on the screen.
+3. In the top menu, click Arquivo (File) > Abrir (Open) (or use the shortcut `Ctrl + A`) and select the `.alg` file of the exercise you want to test.
+4. To run the algorithm, press the F9 key (or go to Algoritmo > Executar).5. Interact with the program through the console/terminal that opens on the screen.
 
 ---
 

@@ -113,3 +113,12 @@ This repository brings together a collection of **17 practical exercises** devel
   - **Simulated Hardware:** Keyboard input of the name and two grades for each student; terminal output showing the list of names and averages (with one decimal place) and the total number of students above the average.
   - **Code Logic:** Application of a first loop to read data, calculate the individual average, and accumulate the sum of the averages; calculation of the class average by dividing the sum by 4; a second loop to display the results and count how many individual averages are greater than the class average.
 </details>
+
+### 12. [Exercise-12-Names-With-C](./Exercise-12-Names-With-C)
+<details>
+  <summary><b>Click to expand project details</b></summary>
+  
+  - **Objective:** Reads 4 names and displays only those whose first letter (capitalized) is "C".
+  - **Simulated Hardware:** Keyboard input of 4 names; terminal output with the list of names that start with "C".
+  - **Code Logic:** Application of a for loop to read the names, use of the function copia(maiusc(nome),1,1) to check the initial, storage of matching names in the soC vector, and counting of the selected names with tot, followed by the display of the stored names.
+</details>

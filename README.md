@@ -68,3 +68,21 @@ This repository brings together a collection of **17 practical exercises** devel
   - **Simulated Hardware:** Keyboard input of the number N and the response "s" or "n" to continue; terminal output showing the multiplication sequence and the factorial value.
   - **Code Logic:** Application of two repeat-until loops — the outer one controls the repetition of the program and the inner one multiplies an accumulator (f) by a decreasing counter (c) from N down to 1, displaying each term.
 </details>
+
+### 07. [Exercise-07-Factorial](./Exercise-07-Factorial)
+<details>
+  <summary><b>Click to expand project details</b></summary>
+  
+  - **Objective:** Calculates and displays the factorial of a number, repeating the operation as long as the user wishes to continue.
+  - **Simulated Hardware:** Keyboard input of the number N and the response "s" or "n" to continue; terminal output showing the multiplication sequence and the factorial value.
+  - **Code Logic:** Application of two repeat-until loops — the outer one controls the repetition of the program and the inner one multiplies an accumulator (f) by a decreasing counter (c) from N down to 1, displaying each term.
+</details>
+
+### 08. [Exercise-08-Heaviest-Detector](./Exercise-08-Heaviest-Detector)
+<details>
+  <summary><b>Click to expand project details</b></summary>
+  
+  - **Objective:** Identifies, among 5 people, who has the heaviest weight, displaying their name and weight at the end.
+  - **Simulated Hardware:** Keyboard input of 5 names (string) and their respective weights (real); terminal output with a header showing the heaviest weight recorded so far (updated in each iteration) and the formatted final result.
+  - **Code Logic:** Application of a for loop to read 5 pairs of name/weight, updating the variables mal (heaviest weight) and pesado (name) whenever a heavier weight is found, alongside a Topo() procedure that clears the screen and displays the header with the current heaviest weight.
+</details>

@@ -1,10 +1,10 @@
 # 💻 Programming Logic Exercises - VisualG (Portugol)
 
-This repository brings together a collection of **17 practical exercises** developed by me during my programming logic studies. All algorithms were written in **Portugol** and structured for execution in the **VisualG** software.
+This repository brings together a collection of **16 practical exercises** developed by me during my programming logic studies. All algorithms were written in **Portugol** and structured for execution in the **VisualG** software.
 
 ---
 
-## List of Exercise (17 Challenges)
+## List of Exercise (16 Challenges)
 
 ### 01. [Exercise-01-Weight-Meter](./Exercise-01-Weight-Meter)
 <details>

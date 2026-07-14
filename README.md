@@ -23,3 +23,11 @@ This repository brings together a collection of **17 practical exercises** devel
   - **Simulated Hardware:** Keyboard input of 16 integers to fill the matrix; terminal output of the formatted matrix and the three results (sum, product, largest value).
   - **Code Logic:** Application of nested loops for reading and printing the matrix, followed by specific loops to accumulate the sum of elements where row = column, multiply all elements of row 2, and find the largest value of column 3 by comparison.
 </details>
+
+### 03. [Exercise-03-Countdown](./Exercise-03-Countdown)
+<details>
+  <summary><b>Click to expand project details</b></summary>
+  
+  - **Objective:** Displays a decreasing sequence of numbers from 9 down to -1, starting from 10, and finishes with a completion message.
+  - **Simulated Hardware:** No data input; terminal output showing each number of the counter on a new line and the phrase "Terminei de contar" (I have finished counting) at the end.
+  - **Code Logic:** Application of a while loop (counter >= 0), initializing the variable at 10 and decrementing it before displaying, which generates the countdown down to -1.

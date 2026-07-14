@@ -141,3 +141,12 @@ This repository brings together a collection of **17 practical exercises** devel
   - **Code Logic:** Application of nested loops for reading and printing the matrix; inside the display loop, a conditional statement if (mat[l,c]%2=0) is used to change the formatting and increment the totpar counter.
 </details>
 
+### 16. [Exercise-15-Even-Matrix](./Exercise-15-Even-Matrix)
+<details>
+  <summary><b>Click to expand project details</b></summary>
+  
+  - **Objective:** Fills and displays a 3x3 identity matrix, with 1 on the main diagonal and 0 in all other positions.
+  - **Simulated Hardware:** No data input; terminal output with the matrix formatted in 3 rows and 3 columns, right-aligned.
+  - **Code Logic:** Application of nested loops that assign 1 when the row index equals the column index (diagonal) and 0 otherwise, followed by printing the matrix.
+</details>
+

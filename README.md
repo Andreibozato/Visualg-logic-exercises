@@ -141,7 +141,7 @@ This repository brings together a collection of **17 practical exercises** devel
   - **Code Logic:** Application of nested loops for reading and printing the matrix; inside the display loop, a conditional statement if (mat[l,c]%2=0) is used to change the formatting and increment the totpar counter.
 </details>
 
-### 16. [Exercise-15-Even-Matrix](./Exercise-15-Even-Matrix)
+### 16. [Exercise-16-Identity-Matrix](./Exercise-16-Identity-Matrix)
 <details>
   <summary><b>Click to expand project details</b></summary>
   
